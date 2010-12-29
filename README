@@ -1,0 +1,20 @@
+This app is simple.  It simply toggles whether or not your Mac OS X Desktop shows any icons.  It's the equivalent of running this in Terminal:
+
+defaults write com.apple.finder CreateDesktop -bool [false|true]
+killall Finder
+
+Caveats:
+1. If you have Finder windows open, they will be closed.
+2. It does not preserve the placement or order of your icons
+3. I have no graphic design skills, so there's no pretty icon :)
+
+Link to download and install:
+
+https://github.com/greenisus/Mac-OS-X-Toggle-Desktop-Icons/raw/master/Toggle%20Desktop%20Icons.dmg
+
+After that, drag the app to the Applications folder.  From there you can drag it to the Dock if you like.
+
+Enjoy!
+
+Mike Mayo
+@greenisus
