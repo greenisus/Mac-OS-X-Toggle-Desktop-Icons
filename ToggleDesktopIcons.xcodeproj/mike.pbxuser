@@ -87,47 +87,7 @@
 		);
 		name = "/Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIcons-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	27345DB212CBF5D800341268 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 256AC3D90F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.m */;
-		name = "ToggleDesktopIconsAppDelegate.m: 37";
-		rLen = 0;
-		rLoc = 1068;
-		rType = 0;
-		vrLen = 1239;
-		vrLoc = 65;
-	};
-	27345DB312CBF5D800341268 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 256AC3D90F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.m */;
-		name = "ToggleDesktopIconsAppDelegate.m: 37";
-		rLen = 0;
-		rLoc = 1068;
-		rType = 0;
-		vrLen = 1234;
-		vrLoc = 65;
-	};
-	27345DB712CBF5EA00341268 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 256AC3D90F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.m */;
-		name = "ToggleDesktopIconsAppDelegate.m: 37";
-		rLen = 0;
-		rLoc = 1068;
-		rType = 0;
-		vrLen = 1234;
-		vrLoc = 65;
-	};
-	27345DBD12CBF5FC00341268 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 256AC3D90F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.m */;
-		name = "ToggleDesktopIconsAppDelegate.m: 15";
-		rLen = 0;
-		rLoc = 280;
-		rType = 0;
-		vrLen = 1184;
-		vrLoc = 62;
+		rLoc = 9223372036854775808;
 	};
 	27345DCF12CBF6CA00341268 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -138,26 +98,6 @@
 		rType = 0;
 		vrLen = 1184;
 		vrLoc = 62;
-	};
-	27345DD012CBF6CA00341268 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
-		name = "main.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 265;
-		vrLoc = 0;
-	};
-	27345DD112CBF6CA00341268 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
-		name = "main.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 265;
-		vrLoc = 0;
 	};
 	27345DD712CBF6EA00341268 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -179,19 +119,18 @@
 		vrLen = 45;
 		vrLoc = 0;
 	};
-	27345DD912CBF6EA00341268 /* PlistBookmark */ = {
+	27345DE412CBF86E00341268 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D1107310486CEB800E47090 /* ToggleDesktopIcons-Info.plist */;
 		fallbackIsa = PBXBookmark;
 		isK = 0;
 		kPath = (
-			NSPrincipalClass,
 		);
 		name = "/Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIcons-Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
-	27345DE312CBF72200341268 /* PlistBookmark */ = {
+	27345DEF12CBF89900341268 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D1107310486CEB800E47090 /* ToggleDesktopIcons-Info.plist */;
 		fallbackIsa = PBXBookmark;
@@ -271,23 +210,17 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 315356163;
-			PBXWorkspaceStateSaveDate = 315356163;
+			PBXPerProjectTemplateStateSaveDate = 315357328;
+			PBXWorkspaceStateSaveDate = 315357328;
 		};
 		perUserProjectItems = {
-			27345DB012CBF5D800341268 /* PBXTextBookmark */ = 27345DB012CBF5D800341268 /* PBXTextBookmark */;
-			27345DB112CBF5D800341268 /* PlistBookmark */ = 27345DB112CBF5D800341268 /* PlistBookmark */;
-			27345DB212CBF5D800341268 /* PBXTextBookmark */ = 27345DB212CBF5D800341268 /* PBXTextBookmark */;
-			27345DB312CBF5D800341268 /* PBXTextBookmark */ = 27345DB312CBF5D800341268 /* PBXTextBookmark */;
-			27345DB712CBF5EA00341268 /* PBXTextBookmark */ = 27345DB712CBF5EA00341268 /* PBXTextBookmark */;
-			27345DBD12CBF5FC00341268 /* PBXTextBookmark */ = 27345DBD12CBF5FC00341268 /* PBXTextBookmark */;
-			27345DCF12CBF6CA00341268 /* PBXTextBookmark */ = 27345DCF12CBF6CA00341268 /* PBXTextBookmark */;
-			27345DD012CBF6CA00341268 /* PBXTextBookmark */ = 27345DD012CBF6CA00341268 /* PBXTextBookmark */;
-			27345DD112CBF6CA00341268 /* PBXTextBookmark */ = 27345DD112CBF6CA00341268 /* PBXTextBookmark */;
-			27345DD712CBF6EA00341268 /* PBXTextBookmark */ = 27345DD712CBF6EA00341268 /* PBXTextBookmark */;
-			27345DD812CBF6EA00341268 /* PBXTextBookmark */ = 27345DD812CBF6EA00341268 /* PBXTextBookmark */;
-			27345DD912CBF6EA00341268 /* PlistBookmark */ = 27345DD912CBF6EA00341268 /* PlistBookmark */;
-			27345DE312CBF72200341268 /* PlistBookmark */ = 27345DE312CBF72200341268 /* PlistBookmark */;
+			27345DB012CBF5D800341268 = 27345DB012CBF5D800341268 /* PBXTextBookmark */;
+			27345DB112CBF5D800341268 = 27345DB112CBF5D800341268 /* PlistBookmark */;
+			27345DCF12CBF6CA00341268 = 27345DCF12CBF6CA00341268 /* PBXTextBookmark */;
+			27345DD712CBF6EA00341268 = 27345DD712CBF6EA00341268 /* PBXTextBookmark */;
+			27345DD812CBF6EA00341268 = 27345DD812CBF6EA00341268 /* PBXTextBookmark */;
+			27345DE412CBF86E00341268 = 27345DE412CBF86E00341268 /* PlistBookmark */;
+			27345DEF12CBF89900341268 /* PlistBookmark */ = 27345DEF12CBF89900341268 /* PlistBookmark */;
 		};
 		sourceControlManager = 27345D9612CBF41300341268 /* Source Control */;
 		userBuildSettings = {

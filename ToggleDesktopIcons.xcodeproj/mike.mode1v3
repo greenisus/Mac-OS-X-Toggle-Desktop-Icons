@@ -232,8 +232,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -331,14 +329,14 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>27345DE312CBF72200341268</string>
+										<string>27345DEF12CBF89900341268</string>
 										<key>history</key>
 										<array>
 											<string>27345DB012CBF5D800341268</string>
 											<string>27345DCF12CBF6CA00341268</string>
 											<string>27345DD712CBF6EA00341268</string>
 											<string>27345DD812CBF6EA00341268</string>
-											<string>27345DB112CBF5D800341268</string>
+											<string>27345DE412CBF86E00341268</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -350,14 +348,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1080, 517}}</string>
+								<string>{{0, 0}, {1080, 511}}</string>
 								<key>RubberWindowFrame</key>
 								<string>115 283 1393 785 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>517pt</string>
+							<string>511pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -370,14 +368,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 522}, {1080, 222}}</string>
+								<string>{{0, 516}, {1080, 228}}</string>
 								<key>RubberWindowFrame</key>
 								<string>115 283 1393 785 0 0 1920 1178 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>222pt</string>
+							<string>228pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -396,9 +394,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>27345D8912CBF41300341268</string>
+				<string>27345DF012CBF89900341268</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>27345D8A12CBF41300341268</string>
+				<string>27345DF112CBF89900341268</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -536,10 +534,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>27345D9412CBF41300341268</string>
-		<string>27345D9512CBF41300341268</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>2738CCBC109B2690006EEF21</string>
 		<string>/Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIcons.xcodeproj</string>
 	</array>
@@ -621,7 +615,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>2738CCBC109B2690006EEF21</string>
-				<string>27345D8B12CBF41300341268</string>
+				<string>27345DF212CBF89900341268</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

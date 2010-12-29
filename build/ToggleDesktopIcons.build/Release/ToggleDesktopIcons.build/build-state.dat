@@ -1,7 +1,7 @@
 TToggleDesktopIcons
 v7
 r0
-t315356954.953076
+t315357333.742705
 cCheck dependencies
 cProcessInfoPlistFile /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Info.plist ToggleDesktopIcons-Info.plist
 cCopyStringsFile /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
@@ -66,31 +66,31 @@ s167
 i<Cocoa/Cocoa.h>
 
 N/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app
-t1293664142
+t1293664533
 s102
 
 N/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app.dSYM
-t1293664070
+t1293664533
 s102
 
 N/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Info.plist
-t1293664142
+t1293664532
 s921
 
 N/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons
-t1293664070
+t1293664533
 s59052
 
 N/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/PkgInfo
-t1293664142
+t1293664532
 s8
 
 N/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1293664052
+t1293664532
 s92
 
 N/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Resources/English.lproj/MainMenu.nib
-t1293664053
+t1293664533
 s34541
 
 N/Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/i386/ToggleDesktopIcons
@@ -169,7 +169,7 @@ s1007
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies315356954#315356954#0(0"0(0#1#0"8670785056#0"0#
+lSLF07#2@18"Check dependencies315357332#315357332#0(0"0(0#1#0"8668250400#0"0#
 
 CCompileC build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/i386/ToggleDesktopIconsAppDelegate.o /Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIconsAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s315356868.440219
@@ -250,42 +250,42 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@58"Compile /Users/mike/src/personal/ToggleDesktopIcons/main.m315356868#315356868#0(0"0(0#0#50"/Users/mike/src/personal/ToggleDesktopIcons/main.m8666632864#1761"    cd /Users/mike/src/personal/ToggleDesktopIcons    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/ToggleDesktopIcons-generated-files.hmap -I/Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/ToggleDesktopIcons-own-target-headers.hmap -I/Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/ToggleDesktopIcons-all-target-headers.hmap -iquote /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/ToggleDesktopIcons-project-headers.hmap -F/Users/mike/src/personal/ToggleDesktopIcons/build/Release -I/Users/mike/src/personal/ToggleDesktopIcons/build/Release/include -I/Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/DerivedSources/x86_64 -I/Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/DerivedSources -include /var/folders/aw/awxVqG+FGrKg11yW0kjRCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToggleDesktopIcons_Prefix-cqvvtwipixxdhqdcfiosvvgwiruc/ToggleDesktopIcons_Prefix.pch -c /Users/mike/src/personal/ToggleDesktopIcons/main.m -o /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/x86_64/main.o0#
 
 CCompileXIB /Users/mike/src/personal/ToggleDesktopIcons/English.lproj/MainMenu.xib
-s315356852.816395
-e315356853.113356
+s315357332.521832
+e315357333.615426
 r1
 xCompileXIB
 x/Users/mike/src/personal/ToggleDesktopIcons/English.lproj/MainMenu.xib
 o/* com.apple.ibtool.document.warnings */
 o/Users/mike/src/personal/ToggleDesktopIcons/English.lproj/MainMenu.xib:371: warning: This window's content rectangle does not lie entirely on the screen with the menu bar and may not be completely visible for all screen resolutions and configurations.
-lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib315356852#315356853#0(293"/* com.apple.ibtool.document.warnings *//Users/mike/src/personal/ToggleDesktopIcons/English.lproj/MainMenu.xib:371: warning: This window's content rectangle does not lie entirely on the screen with the menu bar and may not be completely visible for all screen resolutions and configurations.1(22@166"This window's content rectangle does not lie entirely on the screen with the menu bar and may not be completely visible for all screen resolutions and configurations.315356853#18446744073709551615#0#0(6@70"/Users/mike/src/personal/ToggleDesktopIcons/English.lproj/MainMenu.xib315356813#371#0#371#0#0"0(0#0#70"/Users/mike/src/personal/ToggleDesktopIcons/English.lproj/MainMenu.xib8642532128#392"    cd /Users/mike/src/personal/ToggleDesktopIcons    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Resources/English.lproj/MainMenu.nib /Users/mike/src/personal/ToggleDesktopIcons/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib315357332#315357333#0(293"/* com.apple.ibtool.document.warnings *//Users/mike/src/personal/ToggleDesktopIcons/English.lproj/MainMenu.xib:371: warning: This window's content rectangle does not lie entirely on the screen with the menu bar and may not be completely visible for all screen resolutions and configurations.1(22@166"This window's content rectangle does not lie entirely on the screen with the menu bar and may not be completely visible for all screen resolutions and configurations.315357333#18446744073709551615#0#0(6@70"/Users/mike/src/personal/ToggleDesktopIcons/English.lproj/MainMenu.xib315356813#371#0#371#0#0"0(0#0#70"/Users/mike/src/personal/ToggleDesktopIcons/English.lproj/MainMenu.xib8663638528#392"    cd /Users/mike/src/personal/ToggleDesktopIcons    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Resources/English.lproj/MainMenu.nib /Users/mike/src/personal/ToggleDesktopIcons/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
 
 CCopyStringsFile /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s315356852.815277
-e315356852.928913
+s315357332.520959
+e315357332.899317
 r1
 xCopyStringsFile
 x/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Resources/English.lproj/InfoPlist.strings
 xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings315356852#315356852#0(0"0(0#0#75"/Users/mike/src/personal/ToggleDesktopIcons/English.lproj/InfoPlist.strings8658261344#388"    cd /Users/mike/src/personal/ToggleDesktopIcons    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Resources/English.lproj0#
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings315357332#315357332#0(0"0(0#0#75"/Users/mike/src/personal/ToggleDesktopIcons/English.lproj/InfoPlist.strings8665298784#388"    cd /Users/mike/src/personal/ToggleDesktopIcons    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Resources/English.lproj0#
 
 CCreateUniversalBinary /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons normal "x86_64 i386 ppc"
-s315356869.948294
-e315356870.055240
+s315357333.616682
+e315357333.630656
 r1
 xCreateUniversalBinary
 x/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons
 xnormal
 xx86_64 i386 ppc
-lSLF07#2@117"CreateUniversalBinary build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons normal "x86_64 i386 ppc"315356869#315356870#0(0"0(0#0#59"/Users/mike/src/personal/ToggleDesktopIcons/x86_64 i386 ppc8664085664#642"    cd /Users/mike/src/personal/ToggleDesktopIcons    /usr/bin/lipo -create /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/x86_64/ToggleDesktopIcons /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/i386/ToggleDesktopIcons /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/ppc/ToggleDesktopIcons -output /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons0#
+lSLF07#2@117"CreateUniversalBinary build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons normal "x86_64 i386 ppc"315357333#315357333#0(0"0(0#0#59"/Users/mike/src/personal/ToggleDesktopIcons/x86_64 i386 ppc8667936992#642"    cd /Users/mike/src/personal/ToggleDesktopIcons    /usr/bin/lipo -create /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/x86_64/ToggleDesktopIcons /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/i386/ToggleDesktopIcons /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/ppc/ToggleDesktopIcons -output /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons0#
 
 CGenerateDSYMFile /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app.dSYM /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons
-s315356870.055348
-e315356870.192005
+s315357333.630745
+e315357333.740345
 r1
 xGenerateDSYMFile
 x/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app.dSYM
 x/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons
-lSLF07#2@129"GenerateDSYMFile build/Release/ToggleDesktopIcons.app.dSYM build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons315356870#315356870#0(0"0(0#0#114"/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons8661764320#287"    cd /Users/mike/src/personal/ToggleDesktopIcons    /Developer/usr/bin/dsymutil /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons -o /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app.dSYM0#
+lSLF07#2@129"GenerateDSYMFile build/Release/ToggleDesktopIcons.app.dSYM build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons315357333#315357333#0(0"0(0#0#114"/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons8667723360#287"    cd /Users/mike/src/personal/ToggleDesktopIcons    /Developer/usr/bin/dsymutil /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/MacOS/ToggleDesktopIcons -o /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app.dSYM0#
 
 CLd /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/i386/ToggleDesktopIcons normal i386
 s315356868.651528
@@ -318,13 +318,13 @@ xx86_64
 lSLF07#2@153"Link /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/x86_64/ToggleDesktopIcons315356868#315356868#0(0"0(0#0#0"8662896256#664"    cd /Users/mike/src/personal/ToggleDesktopIcons    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/mike/src/personal/ToggleDesktopIcons/build/Release -F/Users/mike/src/personal/ToggleDesktopIcons/build/Release -filelist /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/x86_64/ToggleDesktopIcons.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/Objects-normal/x86_64/ToggleDesktopIcons0#
 
 CProcessInfoPlistFile /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Info.plist ToggleDesktopIcons-Info.plist
-s315356942.525912
-e315356942.549404
+s315357332.511889
+e315357332.520873
 r1
 xProcessInfoPlistFile
 x/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Info.plist
 xToggleDesktopIcons-Info.plist
-lSLF07#2@37"Process ToggleDesktopIcons-Info.plist315356942#315356942#0(0"0(0#0#73"/Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIcons-Info.plist8664984672#362"    cd /Users/mike/src/personal/ToggleDesktopIcons    builtin-infoPlistUtility ToggleDesktopIcons-Info.plist -genpkginfo /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Info.plist0#
+lSLF07#2@37"Process ToggleDesktopIcons-Info.plist315357332#315357332#0(0"0(0#0#73"/Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIcons-Info.plist8667831456#362"    cd /Users/mike/src/personal/ToggleDesktopIcons    builtin-infoPlistUtility ToggleDesktopIcons-Info.plist -genpkginfo /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app/Contents/Info.plist0#
 
 CProcessPCH /var/folders/aw/awxVqG+FGrKg11yW0kjRCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToggleDesktopIcons_Prefix-cqvvtwipixxdhqdcfiosvvgwiruc/ToggleDesktopIcons_Prefix.pch.gch ToggleDesktopIcons_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s315356853.113502
@@ -366,10 +366,10 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@40"Precompile ToggleDesktopIcons_Prefix.pch315356853#315356864#0(0"0(0#0#73"/Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIcons_Prefix.pch8666725440#1645"    cd /Users/mike/src/personal/ToggleDesktopIcons    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/ToggleDesktopIcons-generated-files.hmap -I/Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/ToggleDesktopIcons-own-target-headers.hmap -I/Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/ToggleDesktopIcons-all-target-headers.hmap -iquote /Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/ToggleDesktopIcons-project-headers.hmap -F/Users/mike/src/personal/ToggleDesktopIcons/build/Release -I/Users/mike/src/personal/ToggleDesktopIcons/build/Release/include -I/Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/DerivedSources/i386 -I/Users/mike/src/personal/ToggleDesktopIcons/build/ToggleDesktopIcons.build/Release/ToggleDesktopIcons.build/DerivedSources -c /Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIcons_Prefix.pch -o /var/folders/aw/awxVqG+FGrKg11yW0kjRCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ToggleDesktopIcons_Prefix-frpgixverhcdnofbhlqcmeaeqqaf/ToggleDesktopIcons_Prefix.pch.gch0#
 
 CTouch /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app
-s315356942.550456
-e315356942.553412
+s315357333.740420
+e315357333.742683
 r1
 xTouch
 x/Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app
-lSLF07#2@86"Touch /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app315356942#315356942#0(0"0(0#0#0"8667460064#154"    cd /Users/mike/src/personal/ToggleDesktopIcons    /usr/bin/touch -c /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app0#
+lSLF07#2@86"Touch /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app315357333#315357333#0(0"0(0#0#0"8665383104#154"    cd /Users/mike/src/personal/ToggleDesktopIcons    /usr/bin/touch -c /Users/mike/src/personal/ToggleDesktopIcons/build/Release/ToggleDesktopIcons.app0#
 
