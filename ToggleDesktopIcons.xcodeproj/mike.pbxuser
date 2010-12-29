@@ -77,18 +77,6 @@
 		vrLen = 349;
 		vrLoc = 0;
 	};
-	27345DB112CBF5D800341268 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* ToggleDesktopIcons-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-			NSMainNibFile,
-		);
-		name = "/Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIcons-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
 	27345DCF12CBF6CA00341268 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 256AC3D90F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.m */;
@@ -130,7 +118,7 @@
 		rLen = 0;
 		rLoc = 9223372036854775808;
 	};
-	27345DEF12CBF89900341268 /* PlistBookmark */ = {
+	27345DF512CBFA8B00341268 /* PlistBookmark */ = {
 		isa = PlistBookmark;
 		fRef = 8D1107310486CEB800E47090 /* ToggleDesktopIcons-Info.plist */;
 		fallbackIsa = PBXBookmark;
@@ -214,13 +202,12 @@
 			PBXWorkspaceStateSaveDate = 315357328;
 		};
 		perUserProjectItems = {
-			27345DB012CBF5D800341268 = 27345DB012CBF5D800341268 /* PBXTextBookmark */;
-			27345DB112CBF5D800341268 = 27345DB112CBF5D800341268 /* PlistBookmark */;
-			27345DCF12CBF6CA00341268 = 27345DCF12CBF6CA00341268 /* PBXTextBookmark */;
-			27345DD712CBF6EA00341268 = 27345DD712CBF6EA00341268 /* PBXTextBookmark */;
-			27345DD812CBF6EA00341268 = 27345DD812CBF6EA00341268 /* PBXTextBookmark */;
-			27345DE412CBF86E00341268 = 27345DE412CBF86E00341268 /* PlistBookmark */;
-			27345DEF12CBF89900341268 /* PlistBookmark */ = 27345DEF12CBF89900341268 /* PlistBookmark */;
+			27345DB012CBF5D800341268 /* PBXTextBookmark */ = 27345DB012CBF5D800341268 /* PBXTextBookmark */;
+			27345DCF12CBF6CA00341268 /* PBXTextBookmark */ = 27345DCF12CBF6CA00341268 /* PBXTextBookmark */;
+			27345DD712CBF6EA00341268 /* PBXTextBookmark */ = 27345DD712CBF6EA00341268 /* PBXTextBookmark */;
+			27345DD812CBF6EA00341268 /* PBXTextBookmark */ = 27345DD812CBF6EA00341268 /* PBXTextBookmark */;
+			27345DE412CBF86E00341268 /* PlistBookmark */ = 27345DE412CBF86E00341268 /* PlistBookmark */;
+			27345DF512CBFA8B00341268 /* PlistBookmark */ = 27345DF512CBFA8B00341268 /* PlistBookmark */;
 		};
 		sourceControlManager = 27345D9612CBF41300341268 /* Source Control */;
 		userBuildSettings = {

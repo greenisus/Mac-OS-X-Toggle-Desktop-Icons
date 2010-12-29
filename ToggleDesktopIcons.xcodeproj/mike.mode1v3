@@ -329,7 +329,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>27345DEF12CBF89900341268</string>
+										<string>27345DF512CBFA8B00341268</string>
 										<key>history</key>
 										<array>
 											<string>27345DB012CBF5D800341268</string>
@@ -358,6 +358,8 @@
 							<string>511pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
