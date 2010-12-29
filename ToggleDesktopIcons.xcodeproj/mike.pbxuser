@@ -1,0 +1,309 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 485}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 684}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 349}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1022, 779}}";
+			sepNavSelRange = "{258, 0}";
+			sepNavVisRange = "{62, 1184}";
+		};
+	};
+	27345D7B12CBF40300341268 /* ToggleDesktopIcons */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ToggleDesktopIcons;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	27345D9612CBF41300341268 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	27345D9712CBF41300341268 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	27345DB012CBF5D800341268 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.h */;
+		name = "ToggleDesktopIconsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	27345DB112CBF5D800341268 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ToggleDesktopIcons-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIcons-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	27345DB212CBF5D800341268 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.m */;
+		name = "ToggleDesktopIconsAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 1068;
+		rType = 0;
+		vrLen = 1239;
+		vrLoc = 65;
+	};
+	27345DB312CBF5D800341268 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.m */;
+		name = "ToggleDesktopIconsAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 1068;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 65;
+	};
+	27345DB712CBF5EA00341268 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.m */;
+		name = "ToggleDesktopIconsAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 1068;
+		rType = 0;
+		vrLen = 1234;
+		vrLoc = 65;
+	};
+	27345DBD12CBF5FC00341268 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.m */;
+		name = "ToggleDesktopIconsAppDelegate.m: 15";
+		rLen = 0;
+		rLoc = 280;
+		rType = 0;
+		vrLen = 1184;
+		vrLoc = 62;
+	};
+	27345DCF12CBF6CA00341268 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ToggleDesktopIconsAppDelegate.m */;
+		name = "ToggleDesktopIconsAppDelegate.m: 12";
+		rLen = 0;
+		rLoc = 258;
+		rType = 0;
+		vrLen = 1184;
+		vrLoc = 62;
+	};
+	27345DD012CBF6CA00341268 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	27345DD112CBF6CA00341268 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	27345DD712CBF6EA00341268 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 15";
+		rLen = 0;
+		rLoc = 265;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	27345DD812CBF6EA00341268 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	27345DD912CBF6EA00341268 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ToggleDesktopIcons-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSPrincipalClass,
+		);
+		name = "/Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIcons-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	27345DE312CBF72200341268 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ToggleDesktopIcons-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/mike/src/personal/ToggleDesktopIcons/ToggleDesktopIcons-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 27345D7B12CBF40300341268 /* ToggleDesktopIcons */;
+		activeTarget = 8D1107260486CEB800E47090 /* ToggleDesktopIcons */;
+		breakpoints = (
+		);
+		codeSenseManager = 27345D9712CBF41300341268 /* Code sense */;
+		executables = (
+			27345D7B12CBF40300341268 /* ToggleDesktopIcons */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					729,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					841,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					801,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315356163;
+			PBXWorkspaceStateSaveDate = 315356163;
+		};
+		perUserProjectItems = {
+			27345DB012CBF5D800341268 /* PBXTextBookmark */ = 27345DB012CBF5D800341268 /* PBXTextBookmark */;
+			27345DB112CBF5D800341268 /* PlistBookmark */ = 27345DB112CBF5D800341268 /* PlistBookmark */;
+			27345DB212CBF5D800341268 /* PBXTextBookmark */ = 27345DB212CBF5D800341268 /* PBXTextBookmark */;
+			27345DB312CBF5D800341268 /* PBXTextBookmark */ = 27345DB312CBF5D800341268 /* PBXTextBookmark */;
+			27345DB712CBF5EA00341268 /* PBXTextBookmark */ = 27345DB712CBF5EA00341268 /* PBXTextBookmark */;
+			27345DBD12CBF5FC00341268 /* PBXTextBookmark */ = 27345DBD12CBF5FC00341268 /* PBXTextBookmark */;
+			27345DCF12CBF6CA00341268 /* PBXTextBookmark */ = 27345DCF12CBF6CA00341268 /* PBXTextBookmark */;
+			27345DD012CBF6CA00341268 /* PBXTextBookmark */ = 27345DD012CBF6CA00341268 /* PBXTextBookmark */;
+			27345DD112CBF6CA00341268 /* PBXTextBookmark */ = 27345DD112CBF6CA00341268 /* PBXTextBookmark */;
+			27345DD712CBF6EA00341268 /* PBXTextBookmark */ = 27345DD712CBF6EA00341268 /* PBXTextBookmark */;
+			27345DD812CBF6EA00341268 /* PBXTextBookmark */ = 27345DD812CBF6EA00341268 /* PBXTextBookmark */;
+			27345DD912CBF6EA00341268 /* PlistBookmark */ = 27345DD912CBF6EA00341268 /* PlistBookmark */;
+			27345DE312CBF72200341268 /* PlistBookmark */ = 27345DE312CBF72200341268 /* PlistBookmark */;
+		};
+		sourceControlManager = 27345D9612CBF41300341268 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 485}}";
+			sepNavSelRange = "{265, 0}";
+			sepNavVisRange = "{0, 265}";
+		};
+	};
+	8D1107260486CEB800E47090 /* ToggleDesktopIcons */ = {
+		activeExec = 0;
+		executables = (
+			27345D7B12CBF40300341268 /* ToggleDesktopIcons */,
+		);
+	};
+}
